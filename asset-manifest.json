@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/books-shell/static/js/main.be4eee37.js",
+    "main.js": "/books-shell/static/js/main.6abdd6f6.js",
     "index.html": "/books-shell/index.html",
-    "main.be4eee37.js.map": "/books-shell/static/js/main.be4eee37.js.map"
+    "main.6abdd6f6.js.map": "/books-shell/static/js/main.6abdd6f6.js.map"
   },
   "entrypoints": [
-    "static/js/main.be4eee37.js"
+    "static/js/main.6abdd6f6.js"
   ]
 }
